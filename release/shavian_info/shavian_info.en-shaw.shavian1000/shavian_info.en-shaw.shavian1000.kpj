@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProject>
+  <Options>
+    <BuildPath>$PROJECTPATH\build</BuildPath>
+    <CompilerWarningsAsErrors>True</CompilerWarningsAsErrors>
+    <WarnDeprecatedCode>True</WarnDeprecatedCode>
+    <CheckFilenameConventions>True</CheckFilenameConventions>
+    <ProjectType>lexicalmodel</ProjectType>
+  </Options>
+  <Files>
+    <File>
+      <ID>id_b4e5394dbf09b1b6a3de732b0ab026c7</ID>
+      <Filename>shavian_info.en-shaw.shavian1000.model.ts</Filename>
+      <Filepath>source\shavian_info.en-shaw.shavian1000.model.ts</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.ts</FileType>
+    </File>
+    <File>
+      <ID>id_17726430ea8ce2e46a3b50b08d6b7285</ID>
+      <Filename>shavian_info.en-shaw.shavian1000.model.kps</Filename>
+      <Filepath>source\shavian_info.en-shaw.shavian1000.model.kps</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kps</FileType>
+      <Details>
+        <Name>Shavian1000</Name>
+        <Copyright>© 2019 Shavian.info</Copyright>
+        <Version>1.0</Version>
+      </Details>
+    </File>
+    <File>
+      <ID>id_93381987554c7f38dbfd7efb209baf0a</ID>
+      <Filename>shavian_info.en-shaw.shavian1000.model.js</Filename>
+      <Filepath>source\..\build\shavian_info.en-shaw.shavian1000.model.js</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.js</FileType>
+      <ParentFileID>id_17726430ea8ce2e46a3b50b08d6b7285</ParentFileID>
+    </File>
+    <File>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <Filename>welcome.htm</Filename>
+      <Filepath>source\welcome.htm</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.htm</FileType>
+      <ParentFileID>id_17726430ea8ce2e46a3b50b08d6b7285</ParentFileID>
+    </File>
+    <File>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <Filename>readme.htm</Filename>
+      <Filepath>source\readme.htm</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.htm</FileType>
+      <ParentFileID>id_17726430ea8ce2e46a3b50b08d6b7285</ParentFileID>
+    </File>
+  </Files>
+</KeymanDeveloperProject>
