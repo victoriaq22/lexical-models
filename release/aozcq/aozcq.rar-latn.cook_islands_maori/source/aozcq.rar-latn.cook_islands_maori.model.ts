@@ -11,5 +11,10 @@ const source: LexicalModelSource = {
    wordBreaker: 'default',
    sources: ['wordlist.tsv'],
    languageUsesCasing: true,
+   searchTermToKey: function (term: string): string {
+    let termWithoutGlottal = term.replace("ꞌ", "")
+
+    return termWithoutGlottal;
+   },
 };
 export default source;
